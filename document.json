@@ -1,0 +1,33 @@
+{
+  "name": "Cancer Dataset",
+  "description": "Biospecimen and clinical records related to Cancer.",
+  "logo": "_images/dataset.png",
+  "has_supporting_content": false,
+  "stack_id": "cancer_dataset",
+  "source_repo": "https://github.com/i-data-explorer/cancer-dataset-notebook.git",
+  "type": "Dataset",
+  "categories": [
+    "Health"
+  ],
+  "platform": "Kubernetes",
+  "cover": "cover.md",
+  "deployment_information": {
+     "Dataset": "/home/jupyter-user/cancer-dataset/dataset"
+  },
+  "buckets": [ "cancer-dataset" ],
+  "commands": [],
+  "meta": {
+    "Install time": [
+      "2 minutes"
+    ],
+    "Type": [
+      "Dataset"
+    ],
+    "Tag": [
+      "Notebook"
+    ],
+    "categories": [
+      "Health"
+    ]
+  },
+}

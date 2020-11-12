@@ -1,0 +1,20 @@
+{
+  "title": "Cancer Dataset",
+  "description": "Biospecimen and clinical records related to Cancer.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "language": [
+    "Dataset"
+  ],
+  
+  "document": "data-logging-stack",
+  "stack_id": "cancer_dataset",
+  "type": "dataset",
+  "categories": [
+    "Health"
+  ],
+  "git_url": "https://github.com/i-data-explorer/cancer-dataset.git",
+  "git_commit": "",
+  "installTime": "2 minutes",
+  "isStacksSaved": true
+}
