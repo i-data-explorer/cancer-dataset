@@ -12,7 +12,7 @@
   "platform": "Kubernetes",
   "cover": "cover.md",
   "deployment_information": {
-     "Dataset": "/home/jupyter-user/cancer-dataset/dataset"
+     "Dataset": "/home/jupyter-user/cancer-dataset/notebooks"
   },
   "buckets": [ "cancer-dataset" ],
   "commands": [],
