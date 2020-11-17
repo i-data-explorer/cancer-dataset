@@ -18,8 +18,14 @@
     "Type": [
       "Notebook"
     ],
+    "Dataset": [
+      "Foundation Medicine Adult Cancer Clinical Dataset (FM-AD)"
+    ], 
     "Categories": [
       "Health"
+    ],
+"Catalog Id": [
+      "cancer_dataset"
     ]
   }
 }
