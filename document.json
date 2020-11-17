@@ -8,8 +8,9 @@
   "cover": "cover.md",
   "buckets": [ "cancer-dataset" ],
   "use_explorer_dataset": true,
-  "explorer_catalog_id": "",
+  "explorer_catalog_id": "fm-ad-dataset",
   "use_catalog_dataset": false,
+  "is_s3_type": true,
   "meta": {
     "Install time": [
       "2 minutes"
