@@ -6,7 +6,7 @@
   "de_catalog_id": "cancer_dataset",
   "source_repo": "https://github.com/i-data-explorer/cancer-dataset-notebook.git",
   "cover": "cover.md",
-  "buckets": [ "cancer-dataset" ],
+  "buckets": ["gdc-fm-ad-phs001179-2-open"],
   "use_explorer_dataset": true,
   "explorer_catalog_id": "fm-ad-dataset",
   "use_catalog_dataset": false,
