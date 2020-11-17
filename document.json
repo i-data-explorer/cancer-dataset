@@ -4,7 +4,7 @@
   "logo": "_images/dataset.png",
   "has_supporting_content": false,
   "de_catalog_id": "cancer_dataset",
-  "notebook_source_repo": "https://github.com/i-data-explorer/cancer-dataset-notebook.git",
+  "source_repo": "https://github.com/i-data-explorer/cancer-dataset-notebook.git",
   "cover": "cover.md",
   "buckets": [ "cancer-dataset" ],
   "use_explorer_dataset": true,
