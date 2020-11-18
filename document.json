@@ -3,7 +3,7 @@
   "description": "Biospecimen and clinical records related to Cancer.",
   "logo": "_images/dataset.png",
   "has_supporting_content": false,
-  "de_catalog_id": "cancer_dataset",
+  "de_catalog_id": "cancer_dataset_notebook",
   "source_repo": "https://github.com/i-data-explorer/cancer-dataset-notebook.git",
   "cover": "cover.md",
   "buckets": ["gdc-fm-ad-phs001179-2-open"],
