@@ -15,6 +15,7 @@
   ],
   "git_url": "https://github.com/i-data-explorer/cancer-dataset.git",
   "git_commit": "",
+  "managed_by": ["Edge"],
   "installTime": "2 minutes",
   "isStacksSaved": true
 }
