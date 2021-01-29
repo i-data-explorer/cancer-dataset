@@ -1,9 +1,12 @@
 # Cancer
 
-An Uncontrollable growth of cells, a disease of mitosis which creates a clump of cancerous cells (tumor), interfering with the healthy functioning of vital organs essential to sustain our life. 
+## What is the notebook about?
+Classification of Cancer, an Uncontrollable growth of cells, a disease of mitosis which creates a clump of cancerous cells (tumor), interfering with the healthy functioning of vital organs essential to sustain our life. 
+Cancer is determined with a Biopsy, we have biospecimen records with metrics useful to identify the type of cancer. A prediction attempt is made, by utilizing biospecimen reports, and combining it with some generic clinical information to determine the type of ancer.
 
-Cancer is determined with a Biopsy, we have biospecimen records with metrics usefull to identify the type of cancer. A prediction attempt is made, by utilizing biospecimen report observations, and combining it with some generic clinical information to determine the Cancer type
-to predict the cancer mentioned in the primary diagnosis using an XGBoost Classifier model with and accuracy of 86%.
+## What algorithms are used?
+* XGBoost Classifier is used to predict the `primary diagnosis` using the features extracted.
 
-### Bonus Fact
-The increased number of Cell Division (mitosis) increases the risk of Cancer. This leads to the assumption that, larger animals are more prone to cancer due to more mitosis. However, very large animals like Elephants and Blue whales do not have cancer because of a Zombie gene which kills cancerous cells. 
+## What is the content of the notebook?
+This notebook reads several split biospecimen and clinical reports, storing them in an datastructure. The data is preprocessed and the model is trained with it.
+The confusion matrix displays results of the XGBoost Classifier, with an observed accuracy of 86% on the population set.
