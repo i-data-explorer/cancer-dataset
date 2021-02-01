@@ -1,7 +1,7 @@
 {
   "name": "Cancer Dataset Notebook",
   "description": "Biospecimen and clinical records related to Cancer.",
-  "logo": "_images/notebook.png",
+  "logo": "_images/notebook-1.png",
   "has_supporting_content": false,
   "de_catalog_id": "cancer_dataset_notebook",
   "source_repo": "https://github.com/i-data-explorer/cancer-dataset-notebook.git",
