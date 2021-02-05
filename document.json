@@ -12,7 +12,7 @@
   "use_catalog_dataset": false,
   "is_s3_type": true,
   "meta": {
-    "Install time": [
+    "Install Time": [
       "2 minutes"
     ],
     "Type": [
@@ -23,6 +23,15 @@
     ], 
     "Categories": [
       "Health"
+    ],
+    "Update Frequency": [
+      "Monthly"
+     ],
+    "Last Updated": [
+      "01/01/2021"
+    ],
+    "License": [
+      "N/A"
     ],
 "Catalog Id": [
       "cancer_dataset"
